@@ -1,8 +1,6 @@
-### HI 👋
+### HI IM Sukimumuu👋
 
-**sukimumuu/sukimumuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently studying on SMKN 1 PURWOKERTO
 - 🌱 I’m currently learning Progamming & Design
@@ -13,6 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--!>
 
 ![Sukimumuu github stats](https://github-readme-stats.vercel.app/api?username=sukimumuu)
