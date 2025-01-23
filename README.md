@@ -1,8 +1,8 @@
-## Hi, I'm [Your Name]! 👋
+<!-- ## Hi, I'm [Your Name]! 👋
 
 - 📸 Instagram: [@rizqybs24](https://instagram.com/rizqybs24)
 
-
+--!>
 ### HI Im Sukimumuu👋
 
 - 🎓 I’m an alumnus of SMKN 1 PURWOKERTO
