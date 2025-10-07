@@ -1,9 +1,9 @@
 ### HI Im Sukimumuu👋
 
-- 🎓 I’m an alumnus of SMKN 1 PURWOKERTO
 - 🌱 I’m currently learning Progamming BE
 - ⚡ Fun fact: I'm addicted to 여자친구 | 위클리 | 첫사랑 🎵🎧
 <!--
+- 🎓 I’m an alumnus of SMKN 1 PURWOKERTO
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
